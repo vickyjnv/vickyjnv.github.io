@@ -49,7 +49,7 @@ To view a live example, **[click here](https://vickyjnv.github.io/)**
 #### Step 1
 
 - **Option 1**
-    - 🍴 Fork this repo!
+    - 🍴 Fork this repo! using git clone
 
 - **Option 2**
     - 👯 Clone this repo to your local machine.
