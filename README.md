@@ -63,5 +63,8 @@ To view a live example, **[click here](https://vickyjnv.github.io/)**
 
 - 🔃 Create a new pull request.
 
+#### Step 4
+    wait to merge
+
 ## License 📄
 This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE) file for details.
