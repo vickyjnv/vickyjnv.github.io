@@ -57,7 +57,7 @@ To view a live example, **[click here](https://vickyjnv.github.io/)**
 
 #### Step 2
 
-- **Build your code** 🔨🔨🔨
+- **Build or edit your code** 🔨🔨🔨
 
 #### Step 3
 
