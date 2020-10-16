@@ -55,16 +55,16 @@ To view a live example, **[click here](https://vickyjnv.github.io/)**
     - 👯 Clone this repo to your local machine.
 
 
-#### Step 2
+#### Step 2:
 
 - **Build or edit your code** 🔨🔨🔨
 
-#### Step 3
+#### Step 3:
 
 - 🔃 Create a new pull request.
 
-#### Step 4
-    wait to merge
+#### Step 4:
+    Wait to merge.
 
 ## License 📄
 This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE) file for details.
