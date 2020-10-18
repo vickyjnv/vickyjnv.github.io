@@ -1,5 +1,5 @@
 # vickyjnv.github.io
-# Personal Portfolio ⚡️ 
+
 > A clean, beautiful, responsive portfolio template for Software Developers!
 
 > https://vickyjnv.github.io
@@ -15,7 +15,7 @@
 
 :star: Star me on GitHub — it helps!
 
-## Features 📋
+
 ⚡️ Fully Responsive\
 ⚡️ Valid HTML5 & CSS3\
 //⚡️ Typing animation using `Typed.js`\
