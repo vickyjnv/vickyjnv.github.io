@@ -1,5 +1,5 @@
 # vickyjnv.github.io
-# personal portfolio
+# personal portfolio using html and css
 
 > A clean, beautiful, responsive portfolio template for Software Developers!
 
