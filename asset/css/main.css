@@ -264,7 +264,7 @@ strong {
 .section__title {
   -ms-flex-negative: 0;
   flex-shrink: 0;
-  width: 200px;
+  width: 100px;
   margin-right: 70px;
   color: #007bff;
   text-transform: uppercase;
@@ -296,7 +296,7 @@ strong {
   font-weight: 300;
   font-size: 1rem;
   width: 100%;
-  max-width: 650px;
+  max-width: 700px;
 }
 
 @media screen and (max-width: 768px) {
