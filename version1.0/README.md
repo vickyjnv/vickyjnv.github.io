@@ -21,6 +21,8 @@
 ⚡️ Valid HTML5 & CSS3\
 ⚡️ Typing animation using `Typed.js`\
 ⚡️ Easy to modify and fork
+⚡️ Easy to modify and edit
+
 
 ## Installation & Deployment 📦
 - Clone the repository and modify the content of <b>index.html</b> according to your requirement.
