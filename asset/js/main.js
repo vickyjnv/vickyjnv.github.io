@@ -89,3 +89,91 @@ function myFunction() {
   var scrolled = (winScroll / height) * 100;
   document.getElementById("myBar").style.width = scrolled + "%";
 }
+
+
+
+
+
+
+
+
+
+
+//Fetch certification from json and show in div class
+
+fetch('data.json')
+  .then(response => response.json())
+  .then(data => {
+    const jobsContainer = document.querySelector('.certifications');
+
+    // Loop through certification data and add to jobs container
+    data.certifications.forEach(certification => {
+      const jobElement = document.createElement('div');
+      jobElement.className = 'job';
+
+      const timePlaceElement = document.createElement('div');
+      timePlaceElement.className = 'time-place';
+
+      const companyElement = document.createElement('div');
+      companyElement.className = 'job__company';
+
+      const linkElement = document.createElement('a');
+      linkElement.href = certification.url;
+      linkElement.target = '_blank';
+      linkElement.textContent = certification.title;
+
+      const timeElement = document.createElement('div');
+      timeElement.className = 'job__time';
+      timeElement.textContent = certification.date;
+
+      companyElement.appendChild(linkElement);
+      timePlaceElement.appendChild(companyElement);
+      timePlaceElement.appendChild(timeElement);
+      jobElement.appendChild(timePlaceElement);
+
+      const positionElement = document.createElement('div');
+      positionElement.className = 'job__position';
+      positionElement.textContent = certification.organization;
+      jobElement.appendChild(positionElement);
+
+      jobsContainer.appendChild(jobElement);
+    });
+  })
+  .catch(error => console.error(error));
+
+
+
+//js code for skillz
+
+const skillz = document.querySelector(".skillz");
+
+fetch("data.json")
+  .then((response) => response.json())
+  .then((data) => {
+    data.skills.forEach(category => {
+      //data.forEach((category) => {
+      const categoryElement = document.createElement("div");
+      categoryElement.classList.add("skillz__category");
+
+      const categoryLabelElement = document.createElement("div");
+      categoryLabelElement.classList.add("skillz__category__label");
+      categoryLabelElement.textContent = category.label;
+      categoryElement.appendChild(categoryLabelElement);
+
+      const skillListElement = document.createElement("ul");
+      category.skills.forEach((skill) => {
+        const skillElement = document.createElement("li");
+        skillElement.classList.add("skillz__category__item");
+        skillElement.textContent = skill;
+        skillListElement.appendChild(skillElement);
+      });
+
+      categoryElement.appendChild(skillListElement);
+      skillz.appendChild(categoryElement);
+    });
+  })
+  .catch((error) => console.log(error));
+
+  //Js code for Education
+
+  //Js code For Jobs

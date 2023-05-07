@@ -1,0 +1,45 @@
+{
+    "skills": [
+        {
+            "label": "Languages",
+            "skills": [
+                "C",
+                "JAVA",
+                "Dart",
+                "C++"
+            ]
+        },
+        {
+            "label": "Frameworks",
+            "skills": [
+                "Wordpress",
+                "Flutter"
+            ]
+        },
+        {
+            "label": "Tools",
+            "skills": [
+                "Bash / Shell",
+                "Git & Github",
+                "Windows",
+                "Linux",
+                "Android Studio",
+                "VScode"
+            ]
+        },
+        {
+            "label": "Design",
+            "skills": [
+                "PhotoShop",
+                "MS Paint"
+            ]
+        },
+        {
+            "label": "Database",
+            "skills": [
+                "SQL",
+                "NoSQL"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "certifications": [
+        {
+            "title": "CNSS Certified Network Security Specialist",
+            "date": "May 2020",
+            "organization": "ICAI",
+            "url": "https://www.udemy.com/certificate/UC-3KC7G8SK/"
+        },
+        {
+            "title": "Wordpress security course",
+            "date": "May 2020",
+            "organization": "Astra",
+            "url": "https://www.udemy.com/certificate/UC-3KC7G8SK/"
+        },
+        {
+            "title": "Programming Data Structure and Algorithm using Python",
+            "date": "Mar 2019",
+            "organization": "NPTEL",
+            "url": "https://www.udemy.com/certificate/UC-3KC7G8SK/"
+        },
+        {
+            "title": "The Joy of Computing using Python",
+            "date": "Oct 2018",
+            "organization": "NPTEL",
+            "url": "https://www.udemy.com/certificate/UC-3KC7G8SK/"
+        },
+        {
+            "title": "Introduction to Git",
+            "date": "May 2020",
+            "organization": "DataCamp",
+            "url": "https://www.datacamp.com/statement-of-accomplishment"
+        }
+    ],
+    "skills": [
+        {
+            "label": "Languages",
+            "skills": [
+                "C",
+                "JAVA",
+                "Dart",
+                "C++"
+            ]
+        },
+        {
+            "label": "Frameworks",
+            "skills": [
+                "Wordpress",
+                "Flutter"
+            ]
+        },
+        {
+            "label": "Tools",
+            "skills": [
+                "Bash / Shell",
+                "Git & Github",
+                "Windows",
+                "Linux",
+                "Android Studio",
+                "VScode"
+            ]
+        },
+        {
+            "label": "Design",
+            "skills": [
+                "PhotoShop",
+                "MS Paint"
+            ]
+        },
+        {
+            "label": "Database",
+            "skills": [
+                "SQL",
+                "NoSQL"
+            ]
+        }
+    ]
+}
