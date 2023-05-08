@@ -260,3 +260,47 @@ fetch("jobs.json")
   .catch(error => console.log(error));
 
 
+
+
+
+fetch('more-certifications.json')
+  .then(response => response.json())
+  .then(data => {
+    const jobsContainer = document.querySelector('.certifications-extra');
+
+    // Loop through certification data and add to jobs container
+    data.forEach(certification => {
+      const jobElement = document.createElement('div');
+      jobElement.className = 'job';
+
+      const timePlaceElement = document.createElement('div');
+      timePlaceElement.className = 'time-place';
+
+      const companyElement = document.createElement('div');
+      companyElement.className = 'job__company';
+
+      const linkElement = document.createElement('a');
+      linkElement.href = certification.url;
+      linkElement.target = '_blank';
+      linkElement.textContent = certification.title;
+
+      const timeElement = document.createElement('div');
+      timeElement.className = 'job__time';
+      timeElement.textContent = certification.date;
+
+      companyElement.appendChild(linkElement);
+      timePlaceElement.appendChild(companyElement);
+      timePlaceElement.appendChild(timeElement);
+      jobElement.appendChild(timePlaceElement);
+
+      const positionElement = document.createElement('div');
+      positionElement.className = 'job__position';
+      positionElement.textContent = certification.organization;
+      jobElement.appendChild(positionElement);
+
+      jobsContainer.appendChild(jobElement);
+    });
+  })
+  .catch(error => console.error(error));
+
+

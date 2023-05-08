@@ -1,0 +1,2570 @@
+[
+    {
+        "LAID": "PLAN-F84516253EF8",
+        "title": "IBM Cloud Advocate",
+        "Learning activity - Duration": 0,
+        "date": "06 May 2023",
+        "Is Required": false,
+        "organization": "Learning Plan"
+    },
+    {
+        "LAID": "ITS-DL70334G",
+        "title": "IBM Cloud Advocate Essentials",
+        "Learning activity - Duration": 6,
+        "date": "05 May 2023",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "ITS-DL52860G",
+        "title": "Database as a Service Offerings",
+        "Learning activity - Duration": 18,
+        "date": "05 May 2023",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "ITS-DL52859G",
+        "title": "Common Storage Options",
+        "Learning activity - Duration": 12,
+        "date": "05 May 2023",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "ITS-DL52858G",
+        "title": "Core Services Available on IBM Cloud",
+        "Learning activity - Duration": 24,
+        "date": "05 May 2023",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "ITS-DL52857G",
+        "title": "IBM Virtual Private Cloud (VPC)",
+        "Learning activity - Duration": 12,
+        "date": "05 May 2023",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "URL-7544BF003A42",
+        "title": "1. Introduction to API Testing",
+        "Learning activity - Duration": 180,
+        "date": "27 April 2023",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "URL-AB6BE15FA710",
+        "title": "Developer Profession Homepage",
+        "Learning activity - Duration": 60,
+        "date": "27 April 2023",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "EL01-00001160",
+        "title": "Open Source Participation Guidelines",
+        "Learning activity - Duration": 60,
+        "date": "06 April 2023",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "ITS-DL52856G",
+        "title": "Identity Access Management (IAM)",
+        "Learning activity - Duration": 24,
+        "date": "27 March 2023",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "ITS-DL52855G",
+        "title": "Support Plans",
+        "Learning activity - Duration": 12,
+        "date": "20 March 2023",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "ITS-DL52854G",
+        "title": "Account Types",
+        "Learning activity - Duration": 6,
+        "date": "20 March 2023",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "ITS-DL52853G",
+        "title": "Industry Compliance Standards for IBM Cloud",
+        "Learning activity - Duration": 6,
+        "date": "20 March 2023",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "ITS-DL52852G",
+        "title": "Security Measures and Security Options in IBM Cloud",
+        "Learning activity - Duration": 12,
+        "date": "20 March 2023",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "ITS-DL52851G",
+        "title": "The Structure of IBM Cloud",
+        "Learning activity - Duration": 6,
+        "date": "20 March 2023",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "ITS-DL52850G",
+        "title": "The IBM Cloud Interface",
+        "Learning activity - Duration": 6,
+        "date": "20 March 2023",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "ITS-DL52849G",
+        "title": "The Emergent Cloud Deployment Models",
+        "Learning activity - Duration": 6,
+        "date": "20 March 2023",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "ITS-DL52848G",
+        "title": "The Major Cloud Service Models",
+        "Learning activity - Duration": 6,
+        "date": "20 March 2023",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "ITS-DL52847G",
+        "title": "The Established Cloud Deployment Models",
+        "Learning activity - Duration": 6,
+        "date": "20 March 2023",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "ITS-DL52846G",
+        "title": "The Job Roles that Support Cloud",
+        "Learning activity - Duration": 18,
+        "date": "20 March 2023",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "ITS-DL52845G",
+        "title": "Cloud Adoption and Migration",
+        "Learning activity - Duration": 18,
+        "date": "17 March 2023",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "COLLECTION-432",
+        "title": "Travel & Transportation Jumpstart",
+        "Learning activity - Duration": 840,
+        "date": "17 March 2023",
+        "Is Required": false,
+        "organization": "Learning Plan"
+    },
+    {
+        "LAID": "ITS-DL52844G",
+        "title": "The History and Evolution of the Cloud",
+        "Learning activity - Duration": 18,
+        "date": "16 March 2023",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "ITS-DL52843G",
+        "title": "The Cloud and Why People Use It",
+        "Learning activity - Duration": 6,
+        "date": "16 March 2023",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "ITS-DL52842G",
+        "title": "Introduction to the IBM Cloud Advocate",
+        "Learning activity - Duration": 6,
+        "date": "16 March 2023",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "IEC-GBS10889",
+        "title": "GIC Practice Workshop",
+        "Learning activity - Duration": 210,
+        "date": "15 March 2023",
+        "Is Required": false,
+        "organization": "Live Online"
+    },
+    {
+        "LAID": "EL02-00000850",
+        "title": "Airline Industry Overview | KYI",
+        "Learning activity - Duration": 45,
+        "date": "14 March 2023",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "COLLECTION-407",
+        "title": "Industry Jumpstart",
+        "Learning activity - Duration": 0,
+        "date": "14 March 2023",
+        "Is Required": false,
+        "organization": "Learning Plan"
+    },
+    {
+        "LAID": "IEC-10333567",
+        "title": "Foundation Model (ILO_0004782)",
+        "Learning activity - Duration": 60,
+        "date": "15 February 2023",
+        "Is Required": false,
+        "organization": "Live Online"
+    },
+    {
+        "LAID": "BLUETUBE-89962",
+        "title": "1.0 How Do You Tell Stories That Matter?",
+        "Learning activity - Duration": 4,
+        "date": "10 February 2023",
+        "Is Required": false,
+        "organization": "Video"
+    },
+    {
+        "LAID": "COLLECTION-12",
+        "title": "Communicating Value",
+        "Learning activity - Duration": 0,
+        "date": "10 February 2023",
+        "Is Required": false,
+        "organization": "Learning Plan"
+    },
+    {
+        "LAID": "PLAN-C1F960E78146",
+        "title": "Agile on the Cloud",
+        "Learning activity - Duration": 0,
+        "date": "30 January 2023",
+        "Is Required": false,
+        "organization": "Learning Plan"
+    },
+    {
+        "LAID": "BLUETUBE-63068",
+        "title": "Red Hat OpenShift enabling multicloud world",
+        "Learning activity - Duration": 45,
+        "date": "30 January 2023",
+        "Is Required": false,
+        "organization": "Video"
+    },
+    {
+        "LAID": "ILB-KXMVGNVJPEYQ6GMY",
+        "title": "Operationalizing the Hybrid Multicloud Journey",
+        "Learning activity - Duration": 0,
+        "date": "30 January 2023",
+        "Is Required": false,
+        "organization": "Learning Plan"
+    },
+    {
+        "LAID": "ILB-PZVNPEGEDPMD45ZG",
+        "title": "Resources",
+        "Learning activity - Duration": 4,
+        "date": "30 January 2023",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "ILB-JYKQRVDDYPJZ10A8",
+        "title": "Check Your Knowledge",
+        "Learning activity - Duration": 4,
+        "date": "30 January 2023",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "ILB-XVPQRWGWXPRZ2JJE",
+        "title": "Availability of Hybrid Cloud Journeys Artifacts",
+        "Learning activity - Duration": 4,
+        "date": "30 January 2023",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "ILB-GYEGZNPNRPYJWGZY",
+        "title": "Understanding the Hybrid Cloud Technical Journeys",
+        "Learning activity - Duration": 15,
+        "date": "30 January 2023",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "ILB-GYEGZYQNKJZY82ZG",
+        "title": "Operationalizing the Hybrid Multicloud Journey",
+        "Learning activity - Duration": 8,
+        "date": "30 January 2023",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "ILB-GYEDKEDGNVEY30D9",
+        "title": "Harnessing the Power of Hybrid Multicloud",
+        "Learning activity - Duration": 0,
+        "date": "30 January 2023",
+        "Is Required": false,
+        "organization": "Learning Plan"
+    },
+    {
+        "LAID": "ILB-WWZJGZNNKXDZ174K",
+        "title": "Resources",
+        "Learning activity - Duration": 4,
+        "date": "30 January 2023",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "ILB-QPDQRKWWVZEN5288",
+        "title": "Check Your Knowledge",
+        "Learning activity - Duration": 4,
+        "date": "30 January 2023",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "ILB-PZVRKVNNYXRQ13VY",
+        "title": "Establishing Open Architecture with Our Clients",
+        "Learning activity - Duration": 15,
+        "date": "30 January 2023",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "ILB-QPDVMDQVEVRV19WQ",
+        "title": "Articulating the Value of Hybrid Multicloud",
+        "Learning activity - Duration": 12,
+        "date": "30 January 2023",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "ILB-JYKJPKQDEZXJ4NZ4",
+        "title": "Accelerating Transformation with Hybrid Multicloud",
+        "Learning activity - Duration": 9,
+        "date": "30 January 2023",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "EL02-00000838",
+        "title": "Publishing Industry Overview | KYI",
+        "Learning activity - Duration": 60,
+        "date": "30 January 2023",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "URL-1510337808762",
+        "title": "Telecommunications, Media & Entertainment Industry Space",
+        "Learning activity - Duration": 60,
+        "date": "30 January 2023",
+        "Is Required": false,
+        "organization": "Webpage"
+    },
+    {
+        "LAID": "URL-C339FD85C817",
+        "title": "Media and Entertainment Global Industry Primer",
+        "Learning activity - Duration": 30,
+        "date": "30 January 2023",
+        "Is Required": false,
+        "organization": "Document"
+    },
+    {
+        "LAID": "PLAN-F35F1C10B4EB",
+        "title": "Industry Skills - Entry Level - Energy, Environment & Utilities",
+        "Learning activity - Duration": 0,
+        "date": "30 January 2023",
+        "Is Required": false,
+        "organization": "Learning Plan"
+    },
+    {
+        "LAID": "EL02-00000191",
+        "title": "Introduction to the Energy and Utilities Industry | KYI",
+        "Learning activity - Duration": 60,
+        "date": "30 January 2023",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "URL-1510340481274",
+        "title": "Energy, Environment & Utilities (EE&U) Industry Hub",
+        "Learning activity - Duration": 60,
+        "date": "30 January 2023",
+        "Is Required": false,
+        "organization": "Webpage"
+    },
+    {
+        "LAID": "URL-6FB634E551D0",
+        "title": "Smartgrids Industry Overview",
+        "Learning activity - Duration": 30,
+        "date": "30 January 2023",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "PLAN-F6053A734634",
+        "title": "Smartgrids Industry Overview",
+        "Learning activity - Duration": 0,
+        "date": "30 January 2023",
+        "Is Required": false,
+        "organization": "Learning Plan"
+    },
+    {
+        "LAID": "URL-7053AD8EEB04",
+        "title": "Environment, Energy and Utilities Global Industry Primer",
+        "Learning activity - Duration": 30,
+        "date": "30 January 2023",
+        "Is Required": false,
+        "organization": "Document"
+    },
+    {
+        "LAID": "PLAN-77FDEB8BD679",
+        "title": "Agile Explorer",
+        "Learning activity - Duration": 0,
+        "date": "30 January 2023",
+        "Is Required": false,
+        "organization": "Learning Plan"
+    },
+    {
+        "LAID": "ILB-YZRJPDGWWVYN4DP8",
+        "title": "Agile Program Fundamentals",
+        "Learning activity - Duration": 0,
+        "date": "30 January 2023",
+        "Is Required": false,
+        "organization": "Learning Plan"
+    },
+    {
+        "LAID": "ILB-KXPYXEYNDMVQ17WG",
+        "title": "Survey",
+        "Learning activity - Duration": 0,
+        "date": "30 January 2023",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "ILB-PZDGPQJKEGPD14VD",
+        "title": "Show what you know!",
+        "Learning activity - Duration": 15,
+        "date": "30 January 2023",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "ILB-JYNMEXGRKKQR13BK",
+        "title": "Delivery phase",
+        "Learning activity - Duration": 20,
+        "date": "30 January 2023",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "ILB-VQNYRZVVPZKX743K",
+        "title": "Program funnel",
+        "Learning activity - Duration": 0,
+        "date": "30 January 2023",
+        "Is Required": false,
+        "organization": "Learning Plan"
+    },
+    {
+        "LAID": "ILB-YZRJPDGNJRPM118E",
+        "title": "Summary",
+        "Learning activity - Duration": 5,
+        "date": "30 January 2023",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "ILB-YZRJPDGPMMKN10YX",
+        "title": "Discovery phase",
+        "Learning activity - Duration": 20,
+        "date": "30 January 2023",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "ILB-PZDGPQJPQXQZ138Z",
+        "title": "Programs pattern",
+        "Learning activity - Duration": 15,
+        "date": "30 January 2023",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "ILB-GYJPWKRWGNPY3QBJ",
+        "title": "Kanban Fundamentals",
+        "Learning activity - Duration": 0,
+        "date": "30 January 2023",
+        "Is Required": false,
+        "organization": "Learning Plan"
+    },
+    {
+        "LAID": "ILB-EKEPRGYVGEYM3AP5",
+        "title": "Introduction",
+        "Learning activity - Duration": 1,
+        "date": "30 January 2023",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "ILB-JYNZYMZYKKRR14BN",
+        "title": "Survey",
+        "Learning activity - Duration": 0,
+        "date": "30 January 2023",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "ILB-DNDPEQMWQMDGW7RE",
+        "title": "Kanban versus scrum",
+        "Learning activity - Duration": 2,
+        "date": "30 January 2023",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "ILB-YZRYKXWERVEM1ZXB",
+        "title": "Feedback loops and improving incrementally",
+        "Learning activity - Duration": 4,
+        "date": "30 January 2023",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "ILB-MKRVEWYXYVNJX9QV",
+        "title": "Making process policies explicit",
+        "Learning activity - Duration": 2,
+        "date": "30 January 2023",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "ILB-RKGJNXMRDQYV2KZZ",
+        "title": "Work in progress (WIP) and managing flow",
+        "Learning activity - Duration": 4,
+        "date": "30 January 2023",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "ILB-KXPNQWYYKPKQ1DV8",
+        "title": "Visualization",
+        "Learning activity - Duration": 3,
+        "date": "30 January 2023",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "ILB-EKEPRGYVXKVV36ZA",
+        "title": "History, principles, and practices",
+        "Learning activity - Duration": 9,
+        "date": "30 January 2023",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "ILB-JYNMEXEGVREZ7D65",
+        "title": "Agile Operations Fundamentals",
+        "Learning activity - Duration": 0,
+        "date": "30 January 2023",
+        "Is Required": false,
+        "organization": "Learning Plan"
+    },
+    {
+        "LAID": "ILB-PZDEZGZNRJEZ15GW",
+        "title": "Survey",
+        "Learning activity - Duration": 0,
+        "date": "30 January 2023",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "ILB-JYNMEXGYWREZ3E8A",
+        "title": "Show what you know!",
+        "Learning activity - Duration": 15,
+        "date": "30 January 2023",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "ILB-QPEYWZKZJGGVQANK",
+        "title": "Agile practice: User stories",
+        "Learning activity - Duration": 25,
+        "date": "30 January 2023",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "ILB-JYNMEXGVPGNZ14A8",
+        "title": "Agile practice: Wall of work",
+        "Learning activity - Duration": 5,
+        "date": "30 January 2023",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "ILB-NKVYMXERMJDD3X74",
+        "title": "Agile practice: Release plan",
+        "Learning activity - Duration": 10,
+        "date": "30 January 2023",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "ILB-RKGZYDRQZKDY5GW7",
+        "title": "Defining the work",
+        "Learning activity - Duration": 10,
+        "date": "30 January 2023",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "ILB-QPEYWZKWKKEG8MX3",
+        "title": "Introduction",
+        "Learning activity - Duration": 5,
+        "date": "30 January 2023",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "ILB-JYNMEXGDDEXJ6G8R",
+        "title": "Kanban",
+        "Learning activity - Duration": 0,
+        "date": "30 January 2023",
+        "Is Required": false,
+        "organization": "Learning Plan"
+    },
+    {
+        "LAID": "ILB-NKVYMXEKKRNQ127G",
+        "title": "Reflection and summary",
+        "Learning activity - Duration": 10,
+        "date": "30 January 2023",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "ILB-PZDGPQJWDQXZ103P",
+        "title": "Kanban principles",
+        "Learning activity - Duration": 12,
+        "date": "30 January 2023",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "ILB-XVZGRNEYMGXZ629K",
+        "title": "The Kanban method",
+        "Learning activity - Duration": 3,
+        "date": "30 January 2023",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "ILB-RKGZYDYWGZEN6GY9",
+        "title": "Agile operations teams",
+        "Learning activity - Duration": 0,
+        "date": "30 January 2023",
+        "Is Required": false,
+        "organization": "Learning Plan"
+    },
+    {
+        "LAID": "ILB-QPEYWZKYMKNG7AZV",
+        "title": "Reflection and summary",
+        "Learning activity - Duration": 10,
+        "date": "30 January 2023",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "ILB-NKVYMXEYMVVDEJMR",
+        "title": "Governance team",
+        "Learning activity - Duration": 3,
+        "date": "30 January 2023",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "ILB-QPEYWZKYYPYG9EWY",
+        "title": "Extended team",
+        "Learning activity - Duration": 4,
+        "date": "30 January 2023",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "ILB-JYNMEXEQPXDR7KQK",
+        "title": "Core team",
+        "Learning activity - Duration": 5,
+        "date": "30 January 2023",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "ILB-KXPEGRGVYGYG9JD9",
+        "title": "Self-directed teams",
+        "Learning activity - Duration": 3,
+        "date": "30 January 2023",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "ILB-QPEYWZWXYXGV105X",
+        "title": "Adding Agile into the operations pattern",
+        "Learning activity - Duration": 0,
+        "date": "30 January 2023",
+        "Is Required": false,
+        "organization": "Learning Plan"
+    },
+    {
+        "LAID": "ILB-JYNMEXEJGVDJ12MX",
+        "title": "Reflection and summary",
+        "Learning activity - Duration": 10,
+        "date": "30 January 2023",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "ILB-QPEYWZWEEXGG9V7Y",
+        "title": "Agile practice: Retrospectives",
+        "Learning activity - Duration": 3,
+        "date": "30 January 2023",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "ILB-QPEYWZWERDQN10Z9",
+        "title": "Agile practice: Stand-ups",
+        "Learning activity - Duration": 4,
+        "date": "30 January 2023",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "ILB-RKGZYDYGZJQV16Z9",
+        "title": "Agile practice: Walls of work",
+        "Learning activity - Duration": 4,
+        "date": "30 January 2023",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "ILB-EKEPDZDVRQNV1542",
+        "title": "Agile practice: Iterations",
+        "Learning activity - Duration": 4,
+        "date": "30 January 2023",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "ILB-MKRJMQMPXWNJ8ZYP",
+        "title": "Agile practice: Social contracts",
+        "Learning activity - Duration": 3,
+        "date": "30 January 2023",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "ILB-RKGZYDYXQEVV129R",
+        "title": "Agile and core practices of the operations pattern",
+        "Learning activity - Duration": 2,
+        "date": "30 January 2023",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "ILB-JYNMEXERNYZJ16RE",
+        "title": "What is the operations pattern?",
+        "Learning activity - Duration": 0,
+        "date": "30 January 2023",
+        "Is Required": false,
+        "organization": "Learning Plan"
+    },
+    {
+        "LAID": "ILB-VQNYRZREJYDV137P",
+        "title": "Reflection and summary",
+        "Learning activity - Duration": 10,
+        "date": "30 January 2023",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "ILB-NKVYMXMZKGRQ1169",
+        "title": "The approach",
+        "Learning activity - Duration": 5,
+        "date": "30 January 2023",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "ILB-DNDGJXJWNYYG9G9W",
+        "title": "What is operations work?",
+        "Learning activity - Duration": 10,
+        "date": "30 January 2023",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "ILB-ZKVWQEQERDWX117P",
+        "title": "Introduction",
+        "Learning activity - Duration": 5,
+        "date": "30 January 2023",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "ILB-NKQGVPWNYEQD9Z6G",
+        "title": "A Taste of Agile",
+        "Learning activity - Duration": 0,
+        "date": "30 January 2023",
+        "Is Required": false,
+        "organization": "Learning Plan"
+    },
+    {
+        "LAID": "ILB-QPEGJZZKPGZV10DY",
+        "title": "Survey",
+        "Learning activity - Duration": 0,
+        "date": "30 January 2023",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "ILB-KXPEGEKMQQEG169G",
+        "title": "Show what you know!",
+        "Learning activity - Duration": 15,
+        "date": "30 January 2023",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "ILB-MKRJMJNWPPEW74BP",
+        "title": "Agile and design thinking",
+        "Learning activity - Duration": 5,
+        "date": "30 January 2023",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "ILB-QPEYWYVXWXJV8NDV",
+        "title": "Agile myths",
+        "Learning activity - Duration": 5,
+        "date": "30 January 2023",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "ILB-JYNMEMJPWMQR6VEB",
+        "title": "Agile and distributed teams",
+        "Learning activity - Duration": 5,
+        "date": "30 January 2023",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "ILB-PZDGPGRKEMRD7P7R",
+        "title": "Agile patterns",
+        "Learning activity - Duration": 10,
+        "date": "30 January 2023",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "COLLECTION-9",
+        "title": "Delivering Business Value",
+        "Learning activity - Duration": 0,
+        "date": "30 January 2023",
+        "Is Required": false,
+        "organization": "Learning Plan"
+    },
+    {
+        "LAID": "ILB-GYJPZPDMDDDY14YZ",
+        "title": "Agile practices",
+        "Learning activity - Duration": 0,
+        "date": "30 January 2023",
+        "Is Required": false,
+        "organization": "Learning Plan"
+    },
+    {
+        "LAID": "ILB-GYJPZPDXZKKY10DV",
+        "title": "Summary",
+        "Learning activity - Duration": 10,
+        "date": "30 January 2023",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "ILB-PZDGPGRYRQJQ10DZ",
+        "title": "Shuhari",
+        "Learning activity - Duration": 10,
+        "date": "30 January 2023",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "ILB-DNDGJGZKYXVQ774J",
+        "title": "Showcase",
+        "Learning activity - Duration": 10,
+        "date": "30 January 2023",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "ILB-WWPEREJDPVKV6PGN",
+        "title": "Retrospective",
+        "Learning activity - Duration": 15,
+        "date": "30 January 2023",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "LT-5013",
+        "title": "Unconscious Bias",
+        "Learning activity - Duration": 30,
+        "date": "30 January 2023",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "URL-DA6BB7EB6B46",
+        "title": "Bring IBM Consulting Way to Life",
+        "Learning activity - Duration": 30,
+        "date": "30 January 2023",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "PLAN-82D7F5C4EC44",
+        "title": "The IBM Consulting Way",
+        "Learning activity - Duration": 0,
+        "date": "30 January 2023",
+        "Is Required": false,
+        "organization": "Learning Plan"
+    },
+    {
+        "LAID": "LVP-7529",
+        "title": "The IBM Consulting Way Knowledge Check",
+        "Learning activity - Duration": 30,
+        "date": "30 January 2023",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "WWBCG-BCG20230215",
+        "title": "2023 Business Conduct Guidelines Program",
+        "Learning activity - Duration": 90,
+        "date": "30 January 2023",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "LT-5446",
+        "title": "Building the Cognitive Enterprise: Nine Action Areas - Core Concepts",
+        "Learning activity - Duration": 60,
+        "date": "27 January 2023",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "COLLECTION-174",
+        "title": "JTCE � Required Training (GBS Bands up to and including Band 9)",
+        "Learning activity - Duration": 0,
+        "date": "27 January 2023",
+        "Is Required": false,
+        "organization": "Learning Plan"
+    },
+    {
+        "LAID": "LT-5320",
+        "title": "Cognitive Enterprise Awareness",
+        "Learning activity - Duration": 15,
+        "date": "27 January 2023",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "UDEMY-1309308",
+        "title": "Business Writing For Busy People",
+        "Learning activity - Duration": 122,
+        "date": "27 January 2023",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "URL-7AF4A2930348",
+        "title": "Storytelling to Influence",
+        "Learning activity - Duration": 60,
+        "date": "27 January 2023",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "LAL-CCOS-A4LK34",
+        "title": "Storytelling",
+        "Learning activity - Duration": 35,
+        "date": "27 January 2023",
+        "Is Required": false,
+        "organization": "Webpage"
+    },
+    {
+        "LAID": "BLUETUBE-9019",
+        "title": "What is a Story?",
+        "Learning activity - Duration": 9,
+        "date": "27 January 2023",
+        "Is Required": false,
+        "organization": "Video"
+    },
+    {
+        "LAID": "URL-3A8C2BD7A776",
+        "title": "Presentation Skills: Preparation",
+        "Learning activity - Duration": 31,
+        "date": "27 January 2023",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "BLUETUBE-9167",
+        "title": "The Biker B Presentation Structure",
+        "Learning activity - Duration": 5,
+        "date": "27 January 2023",
+        "Is Required": false,
+        "organization": "Video"
+    },
+    {
+        "LAID": "BLUETUBE-8980",
+        "title": "Handling challenging situations in workshops and meetings",
+        "Learning activity - Duration": 5,
+        "date": "27 January 2023",
+        "Is Required": false,
+        "organization": "Video"
+    },
+    {
+        "LAID": "URL-0296A897D31E",
+        "title": "Critical Thinker Academy: Learn to Think Like a Philosopher",
+        "Learning activity - Duration": 172,
+        "date": "27 January 2023",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "URL-2CEA3BD9BD95",
+        "title": "Master Cognitive Biases and Improve Your Critical Thinking",
+        "Learning activity - Duration": 131,
+        "date": "27 January 2023",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "EL02-00001293",
+        "title": "Selling Essentials: Value Proposition",
+        "Learning activity - Duration": 60,
+        "date": "27 January 2023",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "BLUETUBE-82734",
+        "title": "LVC_0016959 - Business Case Basics Session Playback",
+        "Learning activity - Duration": 58,
+        "date": "27 January 2023",
+        "Is Required": false,
+        "organization": "Video"
+    },
+    {
+        "LAID": "UDEMY-166240",
+        "title": "Managing Change: Learn to thrive through change.",
+        "Learning activity - Duration": 34,
+        "date": "27 January 2023",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "BLUETUBE-7018",
+        "title": "Watson's Memo: Decision Making at IBM",
+        "Learning activity - Duration": 2,
+        "date": "27 January 2023",
+        "Is Required": false,
+        "organization": "Video"
+    },
+    {
+        "LAID": "ITS-DL65004G",
+        "title": "Professional Skills: Solving Problems with Critical and Creative Thinking",
+        "Learning activity - Duration": 60,
+        "date": "27 January 2023",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "UDEMY-2124810",
+        "title": "Think Strategically and Make Your Ideas a Reality",
+        "Learning activity - Duration": 87,
+        "date": "27 January 2023",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "EELC-HBR-4569AV-VIF-ENG",
+        "title": "Listen for Your Clients Real Needs",
+        "Learning activity - Duration": 3,
+        "date": "27 January 2023",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "EELC-SAFARI32562HBRHV1143",
+        "title": "Creating a Customer-Centric Business",
+        "Learning activity - Duration": 10,
+        "date": "27 January 2023",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "LAL-EMBR-ANCKF5",
+        "title": "Business Acumen",
+        "Learning activity - Duration": 60,
+        "date": "27 January 2023",
+        "Is Required": false,
+        "organization": "Webpage"
+    },
+    {
+        "LAID": "EELC-HBR-HV1380-VIF-ENG",
+        "title": "The New Science of Customer Emotions",
+        "Learning activity - Duration": 9,
+        "date": "27 January 2023",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "EELC-HBR-H03NM5-PDF-ENG",
+        "title": "Obsess Over Your Customers, Not Your Rivals",
+        "Learning activity - Duration": 4,
+        "date": "27 January 2023",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "HBR-H04PW8-PDF-ENG",
+        "title": "How to Embrace Change Using Emotional Intelligence",
+        "Learning activity - Duration": 4,
+        "date": "27 January 2023",
+        "Is Required": false,
+        "organization": "Document"
+    },
+    {
+        "LAID": "LAL-CMMY-A8ZL4W",
+        "title": "Adaptability",
+        "Learning activity - Duration": 10,
+        "date": "27 January 2023",
+        "Is Required": false,
+        "organization": "Webpage"
+    },
+    {
+        "LAID": "URL-1498148888878",
+        "title": "Adaptability creates opportunities | Jasper Reid | TEDxFMS",
+        "Learning activity - Duration": 12,
+        "date": "27 January 2023",
+        "Is Required": false,
+        "organization": "Video"
+    },
+    {
+        "LAID": "EELC-HBR-H02IBI-PDF-ENG",
+        "title": "The Problem-Solving Process That Prevents Groupthink",
+        "Learning activity - Duration": 2,
+        "date": "27 January 2023",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "URL-1498839362590",
+        "title": "Where Good Ideas Come From - By Steven Johnson",
+        "Learning activity - Duration": 4,
+        "date": "27 January 2023",
+        "Is Required": false,
+        "organization": "Video"
+    },
+    {
+        "LAID": "LAL-CCOS-A4LJXV",
+        "title": "Solving for Complexity",
+        "Learning activity - Duration": 20,
+        "date": "27 January 2023",
+        "Is Required": false,
+        "organization": "Webpage"
+    },
+    {
+        "LAID": "LAL-CCOS-A4LJXW",
+        "title": "The 5 whys",
+        "Learning activity - Duration": 3,
+        "date": "27 January 2023",
+        "Is Required": false,
+        "organization": "Video"
+    },
+    {
+        "LAID": "LAL-JKLY-A4Z8GT",
+        "title": "Making opportunities from a challenge",
+        "Learning activity - Duration": 4,
+        "date": "27 January 2023",
+        "Is Required": false,
+        "organization": "Video"
+    },
+    {
+        "LAID": "LAL-CCOS-A4LJXC",
+        "title": "Innovate by looking for problem patterns",
+        "Learning activity - Duration": 5,
+        "date": "27 January 2023",
+        "Is Required": false,
+        "organization": "Video"
+    },
+    {
+        "LAID": "LAL-CCOS-A4LJXZ",
+        "title": "Want better results? Boost your problem-solving power",
+        "Learning activity - Duration": 8,
+        "date": "27 January 2023",
+        "Is Required": false,
+        "organization": "Book/Article"
+    },
+    {
+        "LAID": "EELC-SAFARI32562HBR4201AV",
+        "title": "Diagnostic Thinking",
+        "Learning activity - Duration": 4,
+        "date": "27 January 2023",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "EELC-HBR-H03MQ7-PDF-ENG",
+        "title": "How to Act Quickly Without Sacrificing Critical Thinking",
+        "Learning activity - Duration": 5,
+        "date": "27 January 2023",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "URL-1498745105451",
+        "title": "The Psychology Behind Irrational Decisions - Sara Garofalo",
+        "Learning activity - Duration": 5,
+        "date": "27 January 2023",
+        "Is Required": false,
+        "organization": "Video"
+    },
+    {
+        "LAID": "LAL-CCOS-A4LK9E",
+        "title": "Deciding with Speed",
+        "Learning activity - Duration": 20,
+        "date": "27 January 2023",
+        "Is Required": false,
+        "organization": "Webpage"
+    },
+    {
+        "LAID": "URL-1498743802648",
+        "title": "Decision making",
+        "Learning activity - Duration": 10,
+        "date": "27 January 2023",
+        "Is Required": false,
+        "organization": "Book/Article"
+    },
+    {
+        "LAID": "LAL-XSHI-AACHTW",
+        "title": "Critical thinking",
+        "Learning activity - Duration": 25,
+        "date": "27 January 2023",
+        "Is Required": false,
+        "organization": "Webpage"
+    },
+    {
+        "LAID": "URL-1498056870630",
+        "title": "5 Tips to Improve Your Critical Thinking",
+        "Learning activity - Duration": 5,
+        "date": "27 January 2023",
+        "Is Required": false,
+        "organization": "Video"
+    },
+    {
+        "LAID": "URL-7DE972C0A699",
+        "title": "Polish and Proof section of Report Writing Made Simple",
+        "Learning activity - Duration": 14,
+        "date": "27 January 2023",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "URL-098D67E6FB7B",
+        "title": "Business Communication: How to be clear and concise",
+        "Learning activity - Duration": 40,
+        "date": "27 January 2023",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "URL-F9F905DB98E8",
+        "title": "Business Writing: Audience and Purpose",
+        "Learning activity - Duration": 17,
+        "date": "27 January 2023",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "EELC-HBR-4591AV-VIF-ENG",
+        "title": "Five Ways to Improve Your Business Writing",
+        "Learning activity - Duration": 2,
+        "date": "27 January 2023",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "EELC-HBR-H03KEZ-PDF-ENG",
+        "title": "How to Design Meetings Your Team Will Want to Attend",
+        "Learning activity - Duration": 3,
+        "date": "27 January 2023",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "EELC-HBR-H03YI3-PDF-ENG",
+        "title": "To Build Connection on Your Team, Skip Icebreakers and Talk About Photography",
+        "Learning activity - Duration": 4,
+        "date": "27 January 2023",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "EELC-HBR-H03ETV-PDF-ENG",
+        "title": "6 Ways to Look More Confident During a Presentation",
+        "Learning activity - Duration": 3,
+        "date": "27 January 2023",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "EELC-HBR-H04N33-PDF-ENG",
+        "title": "To Give a Great Presentation Distill Your Message to Just 15 Words",
+        "Learning activity - Duration": 4,
+        "date": "27 January 2023",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "BLUETUBE-9383",
+        "title": "The 4P's of a successful workshop",
+        "Learning activity - Duration": 8,
+        "date": "27 January 2023",
+        "Is Required": false,
+        "organization": "Video"
+    },
+    {
+        "LAID": "URL-6672E71297F5",
+        "title": "IBM Garage Essentials",
+        "Learning activity - Duration": 38,
+        "date": "27 January 2023",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "SAFARI-9781771370387",
+        "title": "Advanced Java Programming",
+        "Learning activity - Duration": 473,
+        "date": "22 January 2023",
+        "Is Required": false,
+        "organization": "Video"
+    },
+    {
+        "LAID": "URL-BA5C63FACE6B",
+        "title": "Oracle Java Advanced Tutorial",
+        "Learning activity - Duration": 4530,
+        "date": "22 January 2023",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "IEC-GBS20069",
+        "title": "The Associate Journey Stay Ahead Event",
+        "Learning activity - Duration": 480,
+        "date": "20 January 2023",
+        "Is Required": false,
+        "organization": "Live Online"
+    },
+    {
+        "LAID": "IEC-10325438",
+        "title": "Understanding IBM India Group Medical Insurance 2023",
+        "Learning activity - Duration": 60,
+        "date": "12 January 2023",
+        "Is Required": false,
+        "organization": "Live Online"
+    },
+    {
+        "LAID": "EL01-00001160",
+        "title": "Open Source Participation Guidelines",
+        "Learning activity - Duration": 60,
+        "date": "09 January 2023",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "ILB-WWPJYXPMZDXZBZE8",
+        "title": "Data Security & Privacy (DS&P)",
+        "Learning activity - Duration": 0,
+        "date": "09 January 2023",
+        "Is Required": false,
+        "organization": "Learning Plan"
+    },
+    {
+        "LAID": "ILB-GYJDMWDJZQJJ83P6",
+        "title": "Data Security & Privacy (DS&P)",
+        "Learning activity - Duration": 2,
+        "date": "09 January 2023",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "ILB-ZKRYDPGKXVEQ8MYX",
+        "title": "Brazil General Data Protection Law (LGPD)",
+        "Learning activity - Duration": 0,
+        "date": "09 January 2023",
+        "Is Required": false,
+        "organization": "Learning Plan"
+    },
+    {
+        "LAID": "ILB-WWZQXGZQRNNY12W2",
+        "title": "Guidance for:Consulting External Client Engagement",
+        "Learning activity - Duration": 15,
+        "date": "09 January 2023",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "ILB-WWPYVWDNJWDZ44M3",
+        "title": "Guidance for IBM Consulting Internal Applications & Business Processes",
+        "Learning activity - Duration": 15,
+        "date": "09 January 2023",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "ILB-QPDGXNZMWWQNNGJ7",
+        "title": "Brazil General Data Protection Law (LGPD)",
+        "Learning activity - Duration": 15,
+        "date": "09 January 2023",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "BLUETUBE-17907",
+        "title": "GDPR Essentials for GBS Course",
+        "Learning activity - Duration": 44,
+        "date": "09 January 2023",
+        "Is Required": false,
+        "organization": "Video"
+    },
+    {
+        "LAID": "ILB-JYWQQXNPZZMZ22QK",
+        "title": "California Consumer Privacy Act (CCPA)",
+        "Learning activity - Duration": 0,
+        "date": "06 January 2023",
+        "Is Required": false,
+        "organization": "Learning Plan"
+    },
+    {
+        "LAID": "ILB-PZVGGGJWYKED26VG",
+        "title": "CCPA Supporting Information",
+        "Learning activity - Duration": 5,
+        "date": "06 January 2023",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "ILB-NKQYNJJQZDDR23V4",
+        "title": "Processing IBM Controlled Consumer PI",
+        "Learning activity - Duration": 10,
+        "date": "06 January 2023",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "ILB-MKPJYGXKDMEW27YQ",
+        "title": "Processing Client Controlled Consumer PI",
+        "Learning activity - Duration": 10,
+        "date": "06 January 2023",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "ILB-DNQVVVDZKKPQ105J",
+        "title": "CCPA External Client Engagements",
+        "Learning activity - Duration": 15,
+        "date": "06 January 2023",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "ILB-QPXQQZEEXVGG3RDA",
+        "title": "CCPA Course Overview",
+        "Learning activity - Duration": 15,
+        "date": "06 January 2023",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "IEC-10320520",
+        "title": "December C3 Series - 360 Feedback and Performance Management",
+        "Learning activity - Duration": 60,
+        "date": "16 December 2022",
+        "Is Required": false,
+        "organization": "Live Online"
+    },
+    {
+        "LAID": "URL-_ZIOODKDZ4U",
+        "title": "Power BI Training | Power BI Certification | Power BI Course | Intellipaat",
+        "Learning activity - Duration": 237,
+        "date": "15 December 2022",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "IEC-10316714",
+        "title": "Session on Tips and Tricks of Slack",
+        "Learning activity - Duration": 60,
+        "date": "02 December 2022",
+        "Is Required": false,
+        "organization": "Live Online"
+    },
+    {
+        "LAID": "URL-E0C89BEB2E0E",
+        "title": "ISTQB Foundation Level Certification Exam Online Mock Test",
+        "Learning activity - Duration": 60,
+        "date": "29 November 2022",
+        "Is Required": false,
+        "organization": "Assessment"
+    },
+    {
+        "LAID": "URL-E92E464FC443",
+        "title": "ISTQB Foundation Level Exam for ISTQB CTFL Certification",
+        "Learning activity - Duration": 60,
+        "date": "29 November 2022",
+        "Is Required": false,
+        "organization": "Webpage"
+    },
+    {
+        "LAID": "EL05-00000028",
+        "title": "2022-23 Cybersecurity and Data Privacy Annual Education",
+        "Learning activity - Duration": 60,
+        "date": "29 November 2022",
+        "Is Required": true,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "IEC-10298694",
+        "title": "Agile at AT&T Bootcamp - Best Practices for Managing Common Challenges in AT&T Program Increments",
+        "Learning activity - Duration": 150,
+        "date": "28 September 2022",
+        "Is Required": false,
+        "organization": "Live Online"
+    },
+    {
+        "LAID": "IEC-10303733",
+        "title": "3Q22 AT&T Account Town Hall",
+        "Learning activity - Duration": 60,
+        "date": "28 September 2022",
+        "Is Required": false,
+        "organization": "Live Online"
+    },
+    {
+        "LAID": "PLAN-13A3DF4826FD",
+        "title": "Security and Privacy by Design for Software Development 101",
+        "Learning activity - Duration": 0,
+        "date": "13 September 2022",
+        "Is Required": true,
+        "organization": "Learning Plan"
+    },
+    {
+        "LAID": "EL05-00000023",
+        "title": "Protecting the Software and Producing Secure Software at IBM",
+        "Learning activity - Duration": 15,
+        "date": "13 September 2022",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "QUIZ-3AE024D185BB",
+        "title": "SPbD@IBM Quiz",
+        "Learning activity - Duration": 10,
+        "date": "13 September 2022",
+        "Is Required": false,
+        "organization": "Quiz"
+    },
+    {
+        "LAID": "EL05-00000014",
+        "title": "Producing Secure Software: Defending Containers - Introduction to Containers and Microservices",
+        "Learning activity - Duration": 15,
+        "date": "13 September 2022",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "EL05-00000013",
+        "title": "Producing Secure Software: OWASP Top 10 2021 - Vulnerable and Outdated Components",
+        "Learning activity - Duration": 11,
+        "date": "13 September 2022",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "EL05-00000011",
+        "title": "Producing Secure Software: OWASP Top 10 2021 - Cryptographic Failures",
+        "Learning activity - Duration": 13,
+        "date": "13 September 2022",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "EL05-00000010",
+        "title": "Producing Secure Software: OWASP Top 10 2021 - Insecure Design",
+        "Learning activity - Duration": 14,
+        "date": "13 September 2022",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "EL05-00000012",
+        "title": "Producing Secure Software: OWASP Top 10 2021 - Broken Access Control",
+        "Learning activity - Duration": 22,
+        "date": "07 September 2022",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "EL05-00000009",
+        "title": "Preparing the Organization: Security by Design at IBM",
+        "Learning activity - Duration": 10,
+        "date": "07 September 2022",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "SAI-IBM-AABP06AIBM",
+        "title": "Integrity at IBM: What it means to be an IBMer",
+        "Learning activity - Duration": 38,
+        "date": "01 September 2022",
+        "Is Required": true,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "TW_MS-DB2AB31D-CC68-4C90-B5B4-02F4B9E17FE8",
+        "title": "AWS Cloud",
+        "Learning activity - Duration": 40,
+        "date": "26 August 2022",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "IEC-10284800",
+        "title": "Mandatory: I/SA Global Missions Integrity Summit (TS# 2_Web_CIC-E)",
+        "Learning activity - Duration": 60,
+        "date": "08 August 2022",
+        "Is Required": false,
+        "organization": "Live Online"
+    },
+    {
+        "LAID": "BLK-TCO-ED001519",
+        "title": "I/SA Global Missions Integrity Summit (August 1-12, 2022)",
+        "Learning activity - Duration": 60,
+        "date": "08 August 2022",
+        "Is Required": false,
+        "organization": "Classroom"
+    },
+    {
+        "LAID": "IEC-10290866",
+        "title": "IBM Consulting AMA",
+        "Learning activity - Duration": 60,
+        "date": "02 August 2022",
+        "Is Required": false,
+        "organization": "Live Online"
+    },
+    {
+        "LAID": "IGB-SKILLS-ACADEMY-CLOSING-FOUNDATION-PATH",
+        "title": "IBM Garage Skills Academy Closing",
+        "Learning activity - Duration": 5,
+        "date": "27 July 2022",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "IGB-TOOLS-FOUNDATION-PATH",
+        "title": "IBM Garage Tools",
+        "Learning activity - Duration": 70,
+        "date": "27 July 2022",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "IGB-SKILLS-ACADEMY-FOUNDATION-PATH",
+        "title": "IBM Garage Skills Academy Foundation Path",
+        "Learning activity - Duration": 164,
+        "date": "27 July 2022",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "IGB-SKILLS-ACADEMY-INTRODUCTION-FOUNDATION-PATH",
+        "title": "IBM Garage Skills Academy Introduction",
+        "Learning activity - Duration": 5,
+        "date": "27 July 2022",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "IEC-10289547",
+        "title": "Communications Market 3Q All Hands Call",
+        "Learning activity - Duration": 60,
+        "date": "25 July 2022",
+        "Is Required": false,
+        "organization": "Live Online"
+    },
+    {
+        "LAID": "IEC-10284671",
+        "title": "ISA D&I Making your voice heard at the workplace!",
+        "Learning activity - Duration": 120,
+        "date": "21 July 2022",
+        "Is Required": false,
+        "organization": "Live Online"
+    },
+    {
+        "LAID": "IEC-10288576",
+        "title": "Q3 � CIC India All Hands Meet",
+        "Learning activity - Duration": 60,
+        "date": "21 July 2022",
+        "Is Required": false,
+        "organization": "Live Online"
+    },
+    {
+        "LAID": "IEC-GBS12162",
+        "title": "IBM Consulting Associates Program - Welcome to IBM",
+        "Learning activity - Duration": 1,
+        "date": "15 July 2022",
+        "Is Required": false,
+        "organization": "Live Online"
+    },
+    {
+        "LAID": "IEC-GBS12163",
+        "title": "IBM Consulting Associates Program - Problem Solving through Foundational Skills",
+        "Learning activity - Duration": 1,
+        "date": "15 July 2022",
+        "Is Required": false,
+        "organization": "Live Online"
+    },
+    {
+        "LAID": "IEC-GBS12164",
+        "title": "IBM Consulting Associates Program - The Enterprise Design Thinking Challenge",
+        "Learning activity - Duration": 1,
+        "date": "15 July 2022",
+        "Is Required": false,
+        "organization": "Live Online"
+    },
+    {
+        "LAID": "IEC-GBS12165",
+        "title": "IBM Consulting Associates Program - What IBM Does! (Cloud and Cognitive)",
+        "Learning activity - Duration": 1,
+        "date": "15 July 2022",
+        "Is Required": false,
+        "organization": "Live Online"
+    },
+    {
+        "LAID": "IEC-GBS12166",
+        "title": "IBM Consulting Associates Program - Understanding Delivery",
+        "Learning activity - Duration": 1,
+        "date": "15 July 2022",
+        "Is Required": false,
+        "organization": "Live Online"
+    },
+    {
+        "LAID": "IEC-GBS12167",
+        "title": "IBM Consulting Associates Program - Career Journey at IBM",
+        "Learning activity - Duration": 1,
+        "date": "15 July 2022",
+        "Is Required": false,
+        "organization": "Live Online"
+    },
+    {
+        "LAID": "IEC-GBS11118",
+        "title": "DTT Webinar Series",
+        "Learning activity - Duration": 90,
+        "date": "23 June 2022",
+        "Is Required": false,
+        "organization": "Live Online"
+    },
+    {
+        "LAID": "IEC-10280472",
+        "title": "ISA Connect with Ric Lewis",
+        "Learning activity - Duration": 60,
+        "date": "20 June 2022",
+        "Is Required": false,
+        "organization": "Live Online"
+    },
+    {
+        "LAID": "IEC-10276011",
+        "title": "#AllyChallenge _ 8 Allyship Interventions (Self-paced): Register, Participate, Learn & Win!",
+        "Learning activity - Duration": 60,
+        "date": "14 June 2022",
+        "Is Required": false,
+        "organization": "Live Online"
+    },
+    {
+        "LAID": "URL-E9E0143A68B8",
+        "title": "AT&T Data Security & Privacy Plan",
+        "Learning activity - Duration": 60,
+        "date": "11 June 2022",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "SAI-IBM-CSDB23ASAI",
+        "title": "Conflicts of Interest Awareness Training for IBM Consultants",
+        "Learning activity - Duration": 25,
+        "date": "11 June 2022",
+        "Is Required": true,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "ILB-KXPKNXNVJNJGA4YD",
+        "title": "IBM Garage Tools Foundation Path",
+        "Learning activity - Duration": 0,
+        "date": "11 June 2022",
+        "Is Required": false,
+        "organization": "Learning Plan"
+    },
+    {
+        "LAID": "ILB-EKEWDKZEMJRJQNXR",
+        "title": "Assess Squad Health",
+        "Learning activity - Duration": 5,
+        "date": "11 June 2022",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "ILB-YZRMPZZPVRXM4QKB",
+        "title": "Generate a Garage",
+        "Learning activity - Duration": 5,
+        "date": "11 June 2022",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "ILB-GYJDNJJJDNEY4JPA",
+        "title": "IBM Garage Tools Series Introduction",
+        "Learning activity - Duration": 5,
+        "date": "11 June 2022",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "ILB-JYNJDYDQGDQJMWP7",
+        "title": "IBM Garage Tools and Assets",
+        "Learning activity - Duration": 30,
+        "date": "11 June 2022",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "ILB-DNDZQMWYGVKQQY22",
+        "title": "IBM Garage Skills Academy Closing",
+        "Learning activity - Duration": 0,
+        "date": "11 June 2022",
+        "Is Required": false,
+        "organization": "Learning Plan"
+    },
+    {
+        "LAID": "ILB-WWPJXQKDYERZM8XV",
+        "title": "IBM Garage Skills Academy Closing",
+        "Learning activity - Duration": 5,
+        "date": "11 June 2022",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "ILB-KXPKYMGNQYEVYRGW",
+        "title": "IBM Garage Skills Academy Foundation",
+        "Learning activity - Duration": 0,
+        "date": "10 June 2022",
+        "Is Required": false,
+        "organization": "Learning Plan"
+    },
+    {
+        "LAID": "ILB-GYJDNEXMVNEYMQB3",
+        "title": "Co-create: Golden Thread and Pain Point Trackers",
+        "Learning activity - Duration": 29,
+        "date": "10 June 2022",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "ILB-RKGWMEQGKMDVNDBA",
+        "title": "IBM Garage Loop",
+        "Learning activity - Duration": 45,
+        "date": "10 June 2022",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "ILB-KXPKYMZKZENGY44Q",
+        "title": "IBM Garage Roles",
+        "Learning activity - Duration": 45,
+        "date": "10 June 2022",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "ILB-ZKVNYREVZJWXQGW3",
+        "title": "DevOps Overview",
+        "Learning activity - Duration": 10,
+        "date": "10 June 2022",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "ILB-ZKVNYRPXDJRM5KZR",
+        "title": "IBM Enterprise Design Thinking Overview",
+        "Learning activity - Duration": 10,
+        "date": "10 June 2022",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "TW_MS-FB096E46-D640-4F41-AEB8-69CDB8622C0F",
+        "title": "Overview of DevOps",
+        "Learning activity - Duration": 10,
+        "date": "10 June 2022",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "IEC-10278978",
+        "title": "On Boarding and DS&P Training for New Resources in AT&T Project",
+        "Learning activity - Duration": 75,
+        "date": "09 June 2022",
+        "Is Required": false,
+        "organization": "Live Online"
+    },
+    {
+        "LAID": "ILB-PZDREVKWJJMD4Y8A",
+        "title": "Agile Overview",
+        "Learning activity - Duration": 10,
+        "date": "08 June 2022",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "ILB-WWPEREJDVWWV11AG",
+        "title": "Stand-up",
+        "Learning activity - Duration": 3,
+        "date": "08 June 2022",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "ILB-EKEPDPWDEEVV53JR",
+        "title": "Wall of work",
+        "Learning activity - Duration": 15,
+        "date": "08 June 2022",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "ILB-XVZGRGKWKYJN956X",
+        "title": "Mood marbles",
+        "Learning activity - Duration": 5,
+        "date": "08 June 2022",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "ILB-DNDGJGZMJPDQ1194",
+        "title": "Social contract",
+        "Learning activity - Duration": 10,
+        "date": "08 June 2022",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "ILB-PZDGPGRZKEGD1M33",
+        "title": "What are practices?",
+        "Learning activity - Duration": 2,
+        "date": "08 June 2022",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "ILB-QPEYWYEDPRPV9RR6",
+        "title": "Agile principles",
+        "Learning activity - Duration": 0,
+        "date": "08 June 2022",
+        "Is Required": false,
+        "organization": "Learning Plan"
+    },
+    {
+        "LAID": "ILB-QPEYWYEQQDEG13Q9",
+        "title": "Summary",
+        "Learning activity - Duration": 2,
+        "date": "08 June 2022",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "ILB-ZKVWQWVXEMZM9KYK",
+        "title": "Principle 3: Self-directed teams",
+        "Learning activity - Duration": 10,
+        "date": "08 June 2022",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "ILB-RKGZYZGVZWNN3YVX",
+        "title": "Principle 2: Iteration and learning",
+        "Learning activity - Duration": 5,
+        "date": "08 June 2022",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "ILB-GYJPZPJZVJEJ1164",
+        "title": "Principle 1: Clarity of outcome",
+        "Learning activity - Duration": 5,
+        "date": "08 June 2022",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "ILB-VQNYRYNRDYRY8A2B",
+        "title": "What are principles?",
+        "Learning activity - Duration": 3,
+        "date": "08 June 2022",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "ILB-RKGZYZGMQGVV9DP4",
+        "title": "Agile values",
+        "Learning activity - Duration": 10,
+        "date": "08 June 2022",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "ILB-EKEPDPENPVVV19Q8",
+        "title": "Why Agile?",
+        "Learning activity - Duration": 10,
+        "date": "08 June 2022",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "ILB-RKGZYZGKDNDV12K3",
+        "title": "Introduction (A Taste of Agile)",
+        "Learning activity - Duration": 5,
+        "date": "08 June 2022",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "ILB-PZDREVQMNYKZRQKA",
+        "title": "Monthly Best Practice Calls",
+        "Learning activity - Duration": 5,
+        "date": "08 June 2022",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "ILB-GYJDNEXQVVPXA7RY",
+        "title": "Get Connected on Slack",
+        "Learning activity - Duration": 5,
+        "date": "08 June 2022",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "ILB-WWPJQZMRPVPZVBYN",
+        "title": "IBM Garage Space",
+        "Learning activity - Duration": 5,
+        "date": "08 June 2022",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "ILB-DNDZWDNPQPEGW6PR",
+        "title": "IBM Garage Skills Academy Introduction",
+        "Learning activity - Duration": 0,
+        "date": "08 June 2022",
+        "Is Required": false,
+        "organization": "Learning Plan"
+    },
+    {
+        "LAID": "ILB-QPEVNEPKQWDGMRKM",
+        "title": "IBM Garage Skills Academy - Introduction",
+        "Learning activity - Duration": 5,
+        "date": "08 June 2022",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "IEC-10273695",
+        "title": "Communications Sector Exclusive New Professional Career Framework Enablement",
+        "Learning activity - Duration": 60,
+        "date": "27 May 2022",
+        "Is Required": false,
+        "organization": "Live Online"
+    },
+    {
+        "LAID": "IEC-GBS7223",
+        "title": "GBS Associate - Test Specialist - Test Automation",
+        "Learning activity - Duration": 15660,
+        "date": "23 May 2022",
+        "Is Required": false,
+        "organization": "Live Online"
+    },
+    {
+        "LAID": "METTL-GBS-ASSOCIATES---CORE-AND-AUTOMATION-TESTING-FINAL-ASSESSMENT",
+        "title": "GBS Associates - Core and Automation Testing Final Assessment Ver May 2022_23rd May 22",
+        "Learning activity - Duration": 90,
+        "date": "23 May 2022",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "PLAN-9B67F8884C43",
+        "title": "2021 Building Inclusion: Expectations for Behavior for all IBMers (Non-People Managers)",
+        "Learning activity - Duration": 0,
+        "date": "20 May 2022",
+        "Is Required": true,
+        "organization": "Learning Plan"
+    },
+    {
+        "LAID": "ILB-ZKVZKRDRPERM2VM7",
+        "title": "Crossing the line 2021: workplace bullying prevention (Diversity and Inclusion)",
+        "Learning activity - Duration": 0,
+        "date": "20 May 2022",
+        "Is Required": false,
+        "organization": "Learning Plan"
+    },
+    {
+        "LAID": "ILB-KXPNXPYNVEJG253G",
+        "title": "Show what you know! (Diversity and Inclusion - 2021)",
+        "Learning activity - Duration": 7,
+        "date": "20 May 2022",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "ILB-PZDWZDEGJWGZ33ND",
+        "title": "Consequences, guidance: (Diversity and Inclusion - 2021)",
+        "Learning activity - Duration": 3,
+        "date": "20 May 2022",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "ILB-NKVDKVKGKQQR49ZY",
+        "title": "Be an upstander. (Diversity and Inclusion - 2021)",
+        "Learning activity - Duration": 5,
+        "date": "20 May 2022",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "ILB-XVZYVZVZKZGN3838",
+        "title": "I think I'm being bullied. (Diversity and Inclusion - 2021)",
+        "Learning activity - Duration": 5,
+        "date": "20 May 2022",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "ILB-QPEJPEPNKXMG1V3Y",
+        "title": "I think I witnessed bullying. (Diversity and Inclusion - 2021)",
+        "Learning activity - Duration": 5,
+        "date": "20 May 2022",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "ILB-XVZYVZVNZVYZ13WA",
+        "title": "Others might think I'm a bully. (Diversity and Inclusion - 2021)",
+        "Learning activity - Duration": 5,
+        "date": "20 May 2022",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "ILB-DNDPNDNKQZDQ13XP",
+        "title": "Costs of bullying behavior in the workplace (Diversity and Inclusion - 2021)",
+        "Learning activity - Duration": 2,
+        "date": "12 May 2022",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "ILB-KXPNXPXZNVDQ2YJR",
+        "title": "Can you identify it? (Diversity and Inclusion - 2021)",
+        "Learning activity - Duration": 18,
+        "date": "12 May 2022",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "ILB-GYJMYJYQPJKJ2EPR",
+        "title": "What bullying behavior is and what it is not (Diversity and Inclusion - 2021)",
+        "Learning activity - Duration": 3,
+        "date": "12 May 2022",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "ILB-EKVWWVWGKXEJ233D",
+        "title": "Global Sexual Harassment Awareness and Prevention: Employees",
+        "Learning activity - Duration": 0,
+        "date": "12 May 2022",
+        "Is Required": false,
+        "organization": "Learning Plan"
+    },
+    {
+        "LAID": "ILB-DNRWEXNVPGXQ15XQ",
+        "title": "Show what you know! (Global Sexual Harassment Awareness and Prevention: Non-managers)",
+        "Learning activity - Duration": 5,
+        "date": "12 May 2022",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "ILB-PZVRRDGYVVXQ20XX",
+        "title": "Wrap-up (Global Sexual Harassment Awareness and Prevention: Non-managers)",
+        "Learning activity - Duration": 2,
+        "date": "12 May 2022",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "ILB-WWZJGPYYNRPV358V",
+        "title": "What do you think? (5) (Global Sexual Harassment Awareness and Prevention)",
+        "Learning activity - Duration": 3,
+        "date": "12 May 2022",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "ILB-KXMKQGZGQXNV36RX",
+        "title": "Other types of harassment that are also prohibited by IBM policy (Global Sexual Harassment Awareness and Prevention)",
+        "Learning activity - Duration": 6,
+        "date": "12 May 2022",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "ILB-VQMGENJGXVQV165Q",
+        "title": "What do you think? (4) (Global Sexual Harassment Awareness and Prevention (shared by manager and non-manager))",
+        "Learning activity - Duration": 2,
+        "date": "12 May 2022",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "ILB-MKRVJVNZXKVZ17M5",
+        "title": "What can I do if I observe sexual harassment? (Global Sexual Harassment Awareness and Prevention (shared by manager and non-manager))",
+        "Learning activity - Duration": 3,
+        "date": "12 May 2022",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "ILB-GYJMPMJXRZWX28MP",
+        "title": "What can I do if I experience sexual harassment? (Global Sexual Harassment Awareness and Prevention (shared by manager and non-manager))",
+        "Learning activity - Duration": 3,
+        "date": "12 May 2022",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "ILB-QPDVMEYNNEEV315A",
+        "title": "Other related IBM policies (Global Sexual Harassment Awareness and Prevention (shared by manager and non-manager))",
+        "Learning activity - Duration": 2,
+        "date": "12 May 2022",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "ILB-WWZJGRVQEGKZ489V",
+        "title": "What is IBM�s policy on sexual harassment? (Global Sexual Harassment Awareness and Prevention (shared by manager and non-manager))",
+        "Learning activity - Duration": 2,
+        "date": "12 May 2022",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "ILB-RKEXPKWJVVNV1BPZ",
+        "title": "How does sexual harassment impact the workplace? (Global Sexual Harassment Awareness and Prevention: Non-managers)",
+        "Learning activity - Duration": 2,
+        "date": "12 May 2022",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "ILB-GYEDKEJXZRJJ197M",
+        "title": "What do you think? (3) (Global Sexual Harassment Awareness and Prevention (shared by manager and non-manager))",
+        "Learning activity - Duration": 3,
+        "date": "12 May 2022",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "ILB-RKEWNENVPEMV1132",
+        "title": "What are behaviors that can contribute to a hostile work environment? (Global Sexual Harassment Awareness and Prevention)",
+        "Learning activity - Duration": 3,
+        "date": "12 May 2022",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "ILB-JYKJPKNDWZXJ12P6",
+        "title": "What do you think? (2) (Global Sexual Harassment Awareness and Prevention (shared by manager and non-manager))",
+        "Learning activity - Duration": 2,
+        "date": "12 May 2022",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "ILB-EKVWGVGXJQEM17VZ",
+        "title": "Types of sexual harassment (Global Sexual Harassment Awareness and Prevention)",
+        "Learning activity - Duration": 2,
+        "date": "12 May 2022",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "ILB-KXMKQMWKGPVV43D2",
+        "title": "What do you think? (1) (Global Sexual Harassment Awareness and Prevention)",
+        "Learning activity - Duration": 2,
+        "date": "12 May 2022",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "ILB-YZQMKPEYXNKN44RN",
+        "title": "What is sexual harassment? (Global Sexual Harassment Awareness and Prevention (shared by manager and non-manager))",
+        "Learning activity - Duration": 2,
+        "date": "12 May 2022",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "ILB-EKVWWEZZMQWJ3152",
+        "title": "About this course (Global Sexual Harassment Awareness and Prevention: Non-managers)",
+        "Learning activity - Duration": 2,
+        "date": "12 May 2022",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "ILB-ZKRNNVWJPZXM34P4",
+        "title": "Welcome! (Global Sexual Harassment Awareness and Prevention (shared by manager and non-manager))",
+        "Learning activity - Duration": 7,
+        "date": "12 May 2022",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "BLUETUBE-69542",
+        "title": "LVC_0013817 - OTFA Basic",
+        "Learning activity - Duration": 108,
+        "date": "11 May 2022",
+        "Is Required": false,
+        "organization": "Video"
+    },
+    {
+        "LAID": "BLUETUBE-73303",
+        "title": "LVC_0014528 - OTFA Level 1 - Hands on",
+        "Learning activity - Duration": 70,
+        "date": "11 May 2022",
+        "Is Required": false,
+        "organization": "Video"
+    },
+    {
+        "LAID": "BLUETUBE-17174",
+        "title": "OTFA Basic - Overview video",
+        "Learning activity - Duration": 13,
+        "date": "11 May 2022",
+        "Is Required": false,
+        "organization": "Video"
+    },
+    {
+        "LAID": "URL-8D72CD53D87B",
+        "title": "CTD - How to Create a Test Model",
+        "Learning activity - Duration": 30,
+        "date": "11 May 2022",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "URL-2E33CC4DD553",
+        "title": "CTD - Model Example (RRS recovery)",
+        "Learning activity - Duration": 20,
+        "date": "11 May 2022",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "URL-82063D01741B",
+        "title": "CTD terms and definitions",
+        "Learning activity - Duration": 30,
+        "date": "11 May 2022",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "METTL-GBS-ASSOCIATES-CORE-TESTING-FINAL-ASSESSMENT",
+        "title": "GBS Associates-Core Testing Final Assessment_4th May 2022",
+        "Learning activity - Duration": 60,
+        "date": "04 May 2022",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "ILB-EKEZWMVKKPXM16N9",
+        "title": "Your First 30 Days! (Start at IBM Self Paced)",
+        "Learning activity - Duration": 10,
+        "date": "29 April 2022",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "WWBCG-BCG20220215",
+        "title": "2022 Business Conduct Guidelines Program",
+        "Learning activity - Duration": 90,
+        "date": "23 April 2022",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "BLUETUBE-16988",
+        "title": "Combinatorial Test Design (CTD)",
+        "Learning activity - Duration": 14,
+        "date": "20 April 2022",
+        "Is Required": false,
+        "organization": "Video"
+    },
+    {
+        "LAID": "PLAN-3C2DD54A6EED",
+        "title": "IBM 2021-22 Cybersecurity & Data Privacy Education",
+        "Learning activity - Duration": 0,
+        "date": "19 April 2022",
+        "Is Required": false,
+        "organization": "Learning Plan"
+    },
+    {
+        "LAID": "EL05-00000005",
+        "title": "IBM 2021-22 Data Privacy Training",
+        "Learning activity - Duration": 45,
+        "date": "19 April 2022",
+        "Is Required": true,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "EL05-00000007",
+        "title": "IBM 2021-22 Annual Cybersecurity Education",
+        "Learning activity - Duration": 45,
+        "date": "19 April 2022",
+        "Is Required": true,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "IEC-GBS12338",
+        "title": "GBS Associates Program - Induction survey",
+        "Learning activity - Duration": 5400,
+        "date": "08 April 2022",
+        "Is Required": false,
+        "organization": "Live Online"
+    },
+    {
+        "LAID": "IEC-GDC0554",
+        "title": "EPH Brighter Blue: GBS Basic Blue School",
+        "Learning activity - Duration": 480,
+        "date": "08 April 2022",
+        "Is Required": false,
+        "organization": "Live Online"
+    },
+    {
+        "LAID": "IEC-GDC0554",
+        "title": "EPH Brighter Blue: GBS Basic Blue School",
+        "Learning activity - Duration": 960,
+        "date": "07 April 2022",
+        "Is Required": false,
+        "organization": "Live Online"
+    },
+    {
+        "LAID": "ILP-CHS-1-270",
+        "title": "Welcome IBM Health and Safety",
+        "Learning activity - Duration": 10,
+        "date": "05 April 2022",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "EL01-00001266",
+        "title": "STPI-SEZ - Controls and Compliance - Employees",
+        "Learning activity - Duration": 50,
+        "date": "05 April 2022",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "IEC-GDC0554",
+        "title": "EPH Brighter Blue: GBS Basic Blue School",
+        "Learning activity - Duration": 480,
+        "date": "05 April 2022",
+        "Is Required": false,
+        "organization": "Live Online"
+    },
+    {
+        "LAID": "IEC-GDC0554",
+        "title": "EPH Brighter Blue: GBS Basic Blue School",
+        "Learning activity - Duration": 480,
+        "date": "04 April 2022",
+        "Is Required": false,
+        "organization": "Live Online"
+    },
+    {
+        "LAID": "URL-E5F98969C115",
+        "title": "CPS L&K - New Hire - Dynamic Delivery",
+        "Learning activity - Duration": 100,
+        "date": "04 April 2022",
+        "Is Required": false,
+        "organization": "eLearning"
+    },
+    {
+        "LAID": "IEC-GDC0554",
+        "title": "EPH Brighter Blue: GBS Basic Blue School",
+        "Learning activity - Duration": 1440,
+        "date": "01 April 2022",
+        "Is Required": false,
+        "organization": "Live Online"
+    },
+    {
+        "LAID": "IEC-SAIDAY1",
+        "title": "The Start at IBM Welcome Session Experience",
+        "Learning activity - Duration": 240,
+        "date": "01 April 2022",
+        "Is Required": false,
+        "organization": "Live Online"
+    },
+    {
+        "LAID": "IEC-GDC0554",
+        "title": "EPH Brighter Blue: GBS Basic Blue School",
+        "Learning activity - Duration": 960,
+        "date": "29 March 2022",
+        "Is Required": false,
+        "organization": "Live Online"
+    }
+]
