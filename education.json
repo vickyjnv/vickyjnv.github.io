@@ -1,0 +1,24 @@
+[
+    {
+        "education": [
+            {
+                "schoolName": "Jawahar Navodaya Vidyalaya (Jamui)",
+                "schoolUrl": "https://example.com/school1",
+                "timePeriod": "Apr 2008 - 2013",
+                "degree": "10 TH"
+            },
+            {
+                "schoolName": "Snatak college Islampur",
+                "schoolUrl": "https://example.com/school2",
+                "timePeriod": "Jan 2013 - 2016",
+                "degree": "12 TH"
+            },
+            {
+                "schoolName": "Durgapur Institute of Advanced technology and management",
+                "schoolUrl": "https://example.com/school3",
+                "timePeriod": "Aug 2017 - 2021",
+                "degree": "B.Tech(Computer Science And Engineering)"
+            }
+        ]
+    }
+]

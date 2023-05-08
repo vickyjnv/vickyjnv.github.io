@@ -96,7 +96,36 @@ function myFunction() {
 
 
 
+//js code for skillz
 
+const skillz = document.querySelector(".skillz");
+
+fetch("data.json")
+  .then((response) => response.json())
+  .then((data) => {
+    data.skills.forEach(category => {
+      //data.forEach((category) => {
+      const categoryElement = document.createElement("div");
+      categoryElement.classList.add("skillz__category");
+
+      const categoryLabelElement = document.createElement("div");
+      categoryLabelElement.classList.add("skillz__category__label");
+      categoryLabelElement.textContent = category.label;
+      categoryElement.appendChild(categoryLabelElement);
+
+      const skillListElement = document.createElement("ul");
+      category.skills.forEach((skill) => {
+        const skillElement = document.createElement("li");
+        skillElement.classList.add("skillz__category__item");
+        skillElement.textContent = skill;
+        skillListElement.appendChild(skillElement);
+      });
+
+      categoryElement.appendChild(skillListElement);
+      skillz.appendChild(categoryElement);
+    });
+  })
+  .catch((error) => console.log(error));
 
 
 //Fetch certification from json and show in div class
@@ -141,39 +170,93 @@ fetch('data.json')
   })
   .catch(error => console.error(error));
 
+//Js code for Education
+// Fetch data from education.json file
+// Fetch the JSON data from the file
+fetch('data.json')
+  .then(response => response.json())
+  .then(data => {
+    //const jobs = document.getElementById('education-list');
+    const jobs = document.querySelector('.education-list');
+
+    // Loop through the data and create a job element for each item
+    data.education.forEach(item => {
+      const jobElement = document.createElement('div');
+      jobElement.classList.add('job');
+
+      const timePlaceElement = document.createElement('div');
+      timePlaceElement.classList.add('time-place');
+
+      const jobCompanyElement = document.createElement('div');
+      jobCompanyElement.classList.add('job__company');
+
+      const companyLinkElement = document.createElement('a');
+      companyLinkElement.innerText = item.schoolName;
+      companyLinkElement.href = item.schoolUrl;
+
+      jobCompanyElement.appendChild(companyLinkElement);
+
+      const jobTimeElement = document.createElement('div');
+      jobTimeElement.classList.add('job__time');
+      jobTimeElement.innerText = item.timePeriod;
+
+      timePlaceElement.appendChild(jobCompanyElement);
+      timePlaceElement.appendChild(jobTimeElement);
+
+      const jobPositionElement = document.createElement('div');
+      jobPositionElement.classList.add('job__position');
+      jobPositionElement.innerText = item.degree;
+
+      jobElement.appendChild(timePlaceElement);
+      jobElement.appendChild(jobPositionElement);
+
+      jobs.appendChild(jobElement);
+    });
+  });
 
 
-//js code for skillz
 
-const skillz = document.querySelector(".skillz");
+//Js code For Jobs
 
-fetch("data.json")
-  .then((response) => response.json())
-  .then((data) => {
-    data.skills.forEach(category => {
-      //data.forEach((category) => {
-      const categoryElement = document.createElement("div");
-      categoryElement.classList.add("skillz__category");
+// Fetch JSON data from file
+// Fetch JSON data from file
+fetch("jobs.json")
+  .then(response => response.json())
+  .then(data => {
+    // Loop through each job and create HTML elements
+    data.forEach(job => {
+      const jobDiv = document.createElement("div");
+      jobDiv.className = "job";
 
-      const categoryLabelElement = document.createElement("div");
-      categoryLabelElement.classList.add("skillz__category__label");
-      categoryLabelElement.textContent = category.label;
-      categoryElement.appendChild(categoryLabelElement);
+      const timePlaceDiv = document.createElement("div");
+      timePlaceDiv.className = "time-place";
 
-      const skillListElement = document.createElement("ul");
-      category.skills.forEach((skill) => {
-        const skillElement = document.createElement("li");
-        skillElement.classList.add("skillz__category__item");
-        skillElement.textContent = skill;
-        skillListElement.appendChild(skillElement);
-      });
+      const companyDiv = document.createElement("div");
+      companyDiv.className = "job__company";
 
-      categoryElement.appendChild(skillListElement);
-      skillz.appendChild(categoryElement);
+      const companyLink = document.createElement("a");
+      companyLink.href = job.companyLink;
+      companyLink.target = "_blank";
+      companyLink.innerText = job.companyName;
+      companyDiv.appendChild(companyLink);
+
+      const timeDiv = document.createElement("div");
+      timeDiv.className = "job__time";
+      timeDiv.innerText = job.duration;
+
+      timePlaceDiv.appendChild(companyDiv);
+      timePlaceDiv.appendChild(timeDiv);
+
+      const positionDiv = document.createElement("div");
+      positionDiv.className = "job__position";
+      positionDiv.innerText = job.position;
+
+      jobDiv.appendChild(timePlaceDiv);
+      jobDiv.appendChild(positionDiv);
+
+      document.querySelector(".jobs").appendChild(jobDiv);
     });
   })
-  .catch((error) => console.log(error));
+  .catch(error => console.log(error));
 
-  //Js code for Education
 
-  //Js code For Jobs
