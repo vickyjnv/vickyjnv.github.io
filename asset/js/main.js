@@ -220,11 +220,11 @@ fetch('data.json')
 
 // Fetch JSON data from file
 // Fetch JSON data from file
-fetch("jobs.json")
+fetch("data.json")
   .then(response => response.json())
   .then(data => {
     // Loop through each job and create HTML elements
-    data.forEach(job => {
+    data.jobsList.forEach(job => {
       const jobDiv = document.createElement("div");
       jobDiv.className = "job";
 
