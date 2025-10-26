@@ -2,5 +2,5 @@
 https://vickyjnv.github.io
 clone this
 using
-clone this repo using 
+clone this repo using gitclone
 
