@@ -3,6 +3,7 @@ https://vickyjnv.github.io
 clone this
 using
 clone this repo using gitclone
+Clone
 
 
 
@@ -12,3 +13,6 @@ clone this repo using gitclone
 
 
 git
+using
+using
+this
